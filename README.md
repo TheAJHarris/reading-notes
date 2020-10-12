@@ -7,6 +7,6 @@
 > "Without continual growth and progress, such words as improvement, achievement, and success have no meaning."
 
 # Reminders for me to keep myself in a growth mindset 
- -Be the quintessential 5 year old, always ask questions. 
- -Remind yourself that technology is evolving as you are, don't stop or you may get left behind. 
- -It's ok to be wrong, it's not ok to stop learning.
+-Be the quintessential 5 year old, always ask questions. 
+-Remind yourself that technology is evolving as you are, don't stop or you may get left behind. 
+-It's ok to be wrong, it's not ok to stop learning.
