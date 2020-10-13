@@ -13,6 +13,7 @@
   1. [CODERS COMPUTER](coderscomp.md)
   1. [MARKDOWN](markdown.md)
   1. [MASTERINGMD](masteringmd_1.md)
+  1. [REFLECTIONS](reflections.md)
 
 ## **Review**
 
