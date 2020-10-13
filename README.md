@@ -10,7 +10,9 @@
 # **TABLE OF CONTENTS**
 
 ## **Reading**
-
+  1. [Coders computer](coderscomp.md)
+  1. [MARKDOWN](markdown.md)
+  1. [MASTERINGMD](masteringmd_1.md)
 
 ## **Review**
 
