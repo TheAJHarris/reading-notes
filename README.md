@@ -11,4 +11,4 @@
 - Remind yourself that technology is evolving as you are, don't stop or you may get left behind. 
 - It's ok to be wrong, it's not ok to stop learning. 
 
-.[MARKDOWN]. (markdown.md)
+[MARKDOWN](markdown.md)
