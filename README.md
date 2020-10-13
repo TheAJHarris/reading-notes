@@ -1,6 +1,6 @@
 # Reading notes for Codefellows
 
-#Anthony Johnson
+# Anthony Johnson
 
 # *Growth Mindset*
 ## ***Growth mindset is the backbone of technology, without questioning how we can make things better, we might never see true change.  To be stagnant, to never evolve, is akin to death to me, as we are not truly living.*** 
