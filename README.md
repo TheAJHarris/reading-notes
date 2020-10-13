@@ -12,3 +12,24 @@
 - It's ok to be wrong, it's not ok to stop learning. 
 
 [MARKDOWN](markdown.md)
+
+* yes
+* yes
+
+- no 
+- no
+
+: maybe
+: maybe
+
+= so 
+= so
+
+> quotes
+> quotes
+
+@ hmm
+@ hmm
+
++ scene
++ scene
