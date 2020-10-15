@@ -14,6 +14,7 @@
   1. [MARKDOWN](markdown.md)
   1. [MASTERINGMD](masteringmd_1.md)
   1. [REFLECTIONS](reflections.md)
+  1. [STRUCTURE](structure.md)
 
 ## **Review**
 
