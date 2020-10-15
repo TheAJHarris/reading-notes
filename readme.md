@@ -15,6 +15,9 @@
   1. [MASTERINGMD](masteringmd_1.md)
   1. [REFLECTIONS](reflections.md)
   1. [STRUCTURE](structure.md)
+  1. [REFLECTIONSPRACTICE](reflectionspractice.md)
+  1. [REVISIONS](revisons.md)
+  
 
 ## **Review**
 
